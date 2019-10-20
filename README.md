@@ -1,6 +1,10 @@
 # ONT-D2RQ – A Database to OWL Mapper (API and Tools)
 ## This is a modified fork of D2RQ (https://github.com/d2rq/d2rq).
 
+## Notice
+**The activity in this repository is frozen.
+The new project's home is https://github.com/owlcs/ont-d2rq**
+
 There are following major differences with the original:
 
 * It is a maven project while the original is ant
